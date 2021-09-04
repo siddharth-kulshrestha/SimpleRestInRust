@@ -1,0 +1,2 @@
+# SimpleRestInRust
+-> Fun learning project..
